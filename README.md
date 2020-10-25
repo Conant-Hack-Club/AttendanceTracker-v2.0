@@ -1,3 +1,4 @@
 # AttendanceTracker-v2.0
-keeps track of attendance for hack club v2.0 using command line
-to start, run the python program in the terminal
+
+- Keeps track of attendance for Conant Hack Club.
+- To start, run the python program in the terminal.
